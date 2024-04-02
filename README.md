@@ -65,8 +65,9 @@ The code required for dataset generation and model training will be released tog
 ## Failure Case
 
 Several scenarios can be considered. 
-Increasing sequence length with RMT does not improve model performance. In this case, we can deliver a non-RMT (one-segment) model which has more parameters than previously published DNA transformers.
-Increasing the number of parameters does not provide better model quality. This will be also important for the community, because currently leaders of the field [[3](#3)],[[4](#4)] focus their resources on increasing the number of model’s parameters.
+
+* Increasing sequence length with RMT does not improve model performance. In this case, we can deliver a non-RMT (one-segment) model which has more parameters than previously published DNA transformers.
+* Increasing the number of parameters does not provide better model quality. This will be also important for the community, because currently leaders of the field [[3](#3)],[[4](#4)] focus their resources on increasing the number of model’s parameters.
 
 ## Preliminary Findings
 
